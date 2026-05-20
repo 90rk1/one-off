@@ -1,0 +1,1 @@
+A repo of one-off projects. Every project will have a README.md inside.

@@ -26,7 +26,9 @@ libreplan/
 * docker compose
 
 ---
-
+#### 1.1 Fix bug
+mkdir patches
+curl -sSLo patches/stax2-api-4.2.1.jar https://maven.org 
 ## 2. Starting the Application Stack
 
 ```bash
